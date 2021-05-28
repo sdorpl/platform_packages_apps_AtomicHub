@@ -18,7 +18,7 @@
     <string name="status_bar">Status Bar</string>
     <string name="ui">UI</string>
     <string name="keys">Keys</string>
-    <string name="misc">Misc</string>
+    <string name="misc">Inne</string>
     <!-- Preference Titles -->
     <string name="messages_header">Messages</string>
     <string name="sync_header">Sync</string>
@@ -56,14 +56,14 @@
     <string name="Status_summary">Improve your interaction by placing essential items at your sight !</string>
     <string name="Button_Title">Button</string>
     <string name="Button_Summary">Yes There are lot of buttons ! Isn\'t it ?  check them here  !</string>
-    <string name="Misc_Title">Misc</string>
+    <string name="Misc_Title">Inne</string>
     <string name="Misc_Summary">Still can’t find the one your looking for  check here !</string>
-    <string name="Team_Title">Team</string>
+    <string name="Team_Title">Twórcy</string>
     <string name="Team_summary">Spend time in knowing people behind this project !</string>
     <string name="button">Buttons</string>
-    <string name="team">Team</string>
+    <string name="team">Twórcy</string>
 
-    <string name="disabled">Disabled</string>
+    <string name="disabled">Wyłączone</string>
 
     <!-- Customization Categories/Fragment Titles -->
     <string name="clocksettings_title">Clock Settings</string>
@@ -189,9 +189,9 @@
     <string name="volte_icon_miui">MIUI 11 Icon</string>
     <string name="volte_icon_emui">EMUI Icon</string>
     <!-- VoWiFi icon -->
-    <string name="vowifi_icon_title">VoWiFi icon</string>
-    <string name="vowifi_icon_enabled">VoWiFi icon enabled</string>
-    <string name="vowifi_icon_disabled">VoWiFi icon disabled</string>
+    <string name="vowifi_icon_title">Ikona VoWiFi</string>
+    <string name="vowifi_icon_enabled">Ikona VoWiFi włączona</string>
+    <string name="vowifi_icon_disabled">Ikona VoWiFi wyłączona</string>
     <string name="vowifi_icon_enabled_volte_disabled">VoWiFi instead of VoLTE icon</string>
     <string name="vowifi_icon_style_title">VoWiFi icon style</string>
     <string name="vowifi_icon_default">Default Icon</string>
